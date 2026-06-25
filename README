@@ -1,0 +1,19 @@
+# Json to UEFN
+
+A simple tool for converting FModel JSON map exports into text you can paste into UEFN.
+
+## What this app does
+
+- Converts one or more Json files you can get from FModel
+- Reads actor, mesh, transform, and world data from the JSON.
+- Lets you copy the generated output or save it as a `.txt` file.
+- Includes optional helpers for missing assets, nature fallback assets, and Valkyrie / valid asset manifest checking.
+
+## Notes
+
+Converted maps are not guaranteed to be perfect. Some assets, materials, models, or transforms may need manual cleanup inside UEFN.
+
+Keep the original JSON files backed up in case you need to convert again.
+
+Join the server if you need help with anything!
+https://discord.gg/SRJVuBjYV
